@@ -1,0 +1,44 @@
+root@ubuntu:/usr/bin# nano internsctl
+root@ubuntu:/usr/bin# chmod +x internsctl
+root@ubuntu:/usr/bin# cd /
+root@ubuntu:/# cd ~
+root@ubuntu:~# ls
+snap
+root@ubuntu:~# internsctl
+snap
+root@ubuntu:~# man ls
+root@ubuntu:~# man internsctl
+No manual entry for internsctl
+root@ubuntu:~# nano man internsctl
+root@ubuntu:~# cd /usr/bin
+root@ubuntu:/usr/bin# nano man internsctl
+root@ubuntu:/usr/bin# nano man internsctl
+root@ubuntu:/usr/bin# chmod +x man internsctl
+root@ubuntu:/usr/bin# cd ~
+root@ubuntu:~# man internsctl
+No manual entry for internsctl
+root@ubuntu:~# cd /usr/bin
+
+
+root@ubuntu:/usr/bin# internsctl --versio
+root@ubuntu:/usr/bin# internsctl --version
+root@ubuntu:/usr/bin# nano internsctl --version
+ GNU nano, version 6.2
+ (C) 1999-2011, 2013-2022 Free Software Foundation, Inc.
+ (C) 2014-2022 the contributors to nano
+ Compiled options: --disable-libmagic --enable-utf8
+root@ubuntu:/usr/bin# nano internsctl cpu getinfo
+root@ubuntu:/usr/bin# chmod +x internsctl cpu getinfo
+root@ubuntu:/usr/bin# cd ~
+root@ubuntu:~# internsctl cpu getinfo
+
+
+root@ubuntu:~# cd /usr/bin
+root@ubuntu:/usr/bin# nano internsctl memory getinfo
+root@ubuntu:/usr/bin# chmod +x internsctl memory getinfo
+chmod: cannot access 'memory': No such file or directory
+root@ubuntu:/usr/bin# nano internsctl memory getinfo
+root@ubuntu:/usr/bin# nano internsctl memory getinfo
+root@ubuntu:/usr/bin# chmod +x internsctl memory getinfo
+root@ubuntu:/usr/bin# cd ~
+root@ubuntu:~# internsctl memory getinfo
